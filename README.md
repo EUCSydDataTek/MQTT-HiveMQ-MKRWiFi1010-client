@@ -7,4 +7,4 @@
   When a message is received it prints the message to the Serial Monitor,
   it uses the callback functionality of the library.
   
-  Test subscription on inTopic from MQTT.fx
+  Is used in MQTT Advanced feature labs.
